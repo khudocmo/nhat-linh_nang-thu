@@ -1,3 +1,9 @@
+---
+title: Nắng thu
+author: Nhất Linh
+language: vi
+---
+
 # I
 
 Phong thấy trong lòng vui vẻ nhẹ nhàng. Không phải chàng vui vì lâu mới được thăm quê nhà, hay vì được lánh xa Hà - nội náo nhiệt về một nơi rộng rãi, yên tĩnh. Chàng vui vì lúc này, khi xe sắp đến cổng, chàng đã được thoáng thấy Trâm đứng trong vườn, sau giậu găng thưa, hình như có ý mong đợi chàng từ lâu.
